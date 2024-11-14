@@ -1,12 +1,12 @@
 # CSS Resources
 
-Welcome to the CSS Resources repository! This collection provides essential materials to help you master CSS and design visually compelling web pages.
+Welcome to the **CSS Resources** repository! This collection provides essential materials to help you master CSS and design visually compelling web pages.
 
-## Contents
+## 📑 Contents
 
-- **[Question Bank](Question_Bank.md):** A variety of CSS challenges to test and improve your knowledge.
-- **Notes**: Key concepts and explanations about CSS, including selectors, properties, and layout techniques.
-- **Tips**: Practical tips and strategies for mastering CSS.
-- **Practical Tasks**: Hands-on projects and assignments to refine your CSS skills.
+- **[📘 Question Bank](Question_Bank.md):** A variety of CSS challenges to test and improve your knowledge.
+- **📝 Notes**: Key concepts and explanations about CSS, including selectors, properties, and layout techniques.
+- **💡 Tips**: Practical tips and strategies for mastering CSS.
+- **💻 Practical Tasks**: Hands-on projects and assignments to refine your CSS skills.
 
-Explore each section, practice consistently, and reach out if you have any questions!
+Explore each section, practice consistently, and feel free to reach out if you have any questions. Happy styling!
